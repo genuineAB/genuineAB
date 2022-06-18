@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning Javascript, React, Python, Flask
 - 💞️ I’m looking to collaborate on any valuable project that test my skills.
-- 📫 How to reach me: You can reach me by mail on bamigboyeabiola@gmail.com, linkedin: linkedin.com/bamigboyeabiola
+- 📫 How to reach me: You can reach me by mail on bamigboyeabiola@gmail.com, linkedin: linkedin.com/bamigboye-abiola
 
 <!---
 genuineAB/genuineAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
